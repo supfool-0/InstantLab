@@ -1,0 +1,307 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+511145	Escherichia coli str. K-12 substr. MG1655	946775	0	live	ackA	b2296, ECK2290, JW2293	acetate kinase A and propionate kinase 2				NC_000913.3	2413470	2414672	plus	0		
+272634	Mycoplasma pneumoniae M129	877249	0	live	ackA	MPN533, G12_orf390	acetate kinase				NC_000912.1	654981	656153	minus	0		
+233413	Mycobacterium bovis AF2122/97	1091412	0	live	ackA	BQ2027_MB0417	PROBABLE ACETATE KINASE ACKA (ACETOKINASE)			Mycobacterium_bovis_AF2122/97	NC_002945.4	494870	496027	plus	0		
+749927	Amycolatopsis mediterranei U32	9440726	0	live	ackA	AMED_6574	acetate kinase				NC_014318.1	7258816	7259901	minus	0		
+211586	Shewanella oneidensis MR-1	1170604	0	live	ackA	SO_2915	acetate kinase AckA				NC_004347.2	3045853	3047052	plus	0		
+243090	Rhodopirellula baltica SH 1	1796441	0	live	ackA	RB9655	acetate kinase				NC_005027.1	5200863	5202038	plus	0		
+206672	Bifidobacterium longum NCC2705	1022473	0	live	ackA	BL0969	ackA	ackA|acetate kinase			NC_004307.2	780955	782184	plus	0		
+388919	Streptococcus sanguinis SK36	4807938	0	live	ackA	SSA_0192	acetate kinase				NC_009009.1	193049	194242	plus	0		
+210007	Streptococcus mutans UA159	1029183	0	live	ackA	SMU_1978, SMU.1978	acetate kinase				NC_004350.2	1850234	1851433	minus	0		
+160490	Streptococcus pyogenes M1 GAS	900449	0	live	ackA	SPy_0109, SPy0109	acetate kinase				NC_002737.2	106220	107416	plus	0		
+243090	Rhodopirellula baltica SH 1	1792617	0	live	ackA	RB2582	acetate kinase				NC_005027.1	1344446	1345681	minus	0		
+99287	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	1253859	0	live	ackA	STM2337	acetate kinase				NC_003197.2	2447927	2449140	plus	0		
+71421	Haemophilus influenzae Rd KW20	949638	0	live	ackA	HI1204	acetate kinase				NC_000907.1	1270934	1272139	minus	0		
+224308	Bacillus subtilis subsp. subtilis str. 168	937347	0	live	ackA	BSU29470	acetate kinase				NC_000964.3	3015111	3016298	minus	0		
+85962	Helicobacter pylori 26695	899691	0	live	ackA	HP0903m	acetate kinase				NC_000915.1	953461	954661	minus	0		
+169963	Listeria monocytogenes EGD-e	986937	0	live	ackA	lmo1581	acetate kinase				NC_003210.1	1623099	1624292	minus	0		
+214092	Yersinia pestis CO92	1175397	0	live	ackA	YPO2566	acetate kinase				NC_003143.1	2879734	2880936	plus	0		
+192222	Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819	905008	0	live	ackA	Cj0689	acetate kinase				NC_002163.1	643409	644599	plus	0		
+246196	Mycobacterium smegmatis str. MC2 155	4531693	0	live	ackA	MSMEG_0784	acetate kinase				NC_008596.1	869653	870783	plus	0		
+394	Sinorhizobium fredii NGR234	7787912	0	live	ackA	NGR_b13640	acetate kinase				NC_012586.1	1362119	1363303	plus	0		
+312309	Vibrio fischeri ES114	3278383	0	live	ackA	VF_0837, VF0837	acetate kinase			I	NC_006840.2	923664	924860	minus	0		
+272632	Mycoplasma mycoides subsp. mycoides SC str. PG1	2745008	0	live	ackA	MSC_0270	acetate kinase				NC_005364.2	309526	310707	plus	0		
+171101	Streptococcus pneumoniae R6	933975	0	live	ackA	spr1854	acetate kinase				NC_003098.1	1828803	1829993	minus	0		
+568814	Streptococcus suis BM407	8155055	0	live	ackA	SSUBM407_0131	acetate kinase				NC_012926.1	124591	125778	plus	0		
+208435	Streptococcus agalactiae 2603V/R	1012942	0	live	ackA	SAG0168	acetate kinase				NC_004116.1	191112	192305	plus	0		
+441771	Clostridium botulinum A str. Hall	5400371	0	live	ackA	CLC_2308	acetate kinase				NC_009698.1	2435550	2436743	minus	0		
+413999	Clostridium botulinum A str. ATCC 3502	5186713	0	live	ackA	CBO2458	acetate kinase				NC_009495.1	2591182	2592375	minus	0		
+300267	Shigella dysenteriae Sd197	3799538	0	live	ackA	SDY_2492	acetate kinase				NC_007606.1	2293220	2294422	plus	0		
+882	Desulfovibrio vulgaris str. Hildenborough	2796447	0	live	ackA	DVU3030	acetate kinase				NC_002937.3	3154356	3155564	plus	0		
+257313	Bordetella pertussis Tohama I	2664543	0	live	ackA	BP1003, ack	acetate kinase				NC_002929.2	1048777	1049967	minus	0		
+585057	Escherichia coli IAI39	7153827	0	live	ackA	ECIAI39_2443	acetate kinase				NC_011750.1	2530755	2531957	plus	0		
+281309	[Bacillus thuringiensis] serovar konkukian str. 97-27	2856499	0	live	ackA	BT9727_4371	acetate kinase				NC_005957.1	4433992	4435185	minus	0		
+3068	Volvox carteri f. nagariensis	9624937	0	live	ackA	VOLCADRAFT_103948	acetate kinase			Unknown							
+208964	Pseudomonas aeruginosa PAO1	877790	0	live	ackA	PA0836	acetate kinase				NC_002516.2	911595	912779	minus	0		
+83332	Mycobacterium tuberculosis H37Rv	886399	0	live	ackA	Rv0409	acetate kinase				NC_000962.3	493851	495008	plus	0		
+226185	Enterococcus faecalis V583	1200858	0	live	ackA	EF1983	acetate kinase				NC_004668.1	1919170	1920357	minus	0		
+272621	Lactobacillus acidophilus NCFM	3252580	0	live	ackA	LBA0463	acetate kinase				NC_006814.3	450854	452064	plus	0		
+272621	Lactobacillus acidophilus NCFM	3251787	0	live	ackA	LBA1873	acetate kinase				NC_006814.3	1885232	1886421	minus	0		
+272563	Clostridioides difficile 630	4916377	0	live	ackA	CD630_11750	acetate kinase	acetate kinase			NC_009089.1	1375461	1376657	plus	0		
+107806	Buchnera aphidicola str. APS (Acyrthosiphon pisum)	1109618	0	live	ackA	BU175	acetate kinase				NC_002528.1	188320	189537	plus	0		
+224326	Borrelia burgdorferi B31	1195472	0	live	ackA	BB_0622	acetate kinase				NC_001318.1	649170	650387	minus	0		
+525284	Gardnerella vaginalis ATCC 14019	9904131	0	live	ackA	HMPREF0421_20574	acetate kinase				NC_014644.1	710045	711289	minus	0		
+859656	Ralstonia solanacearum CFBP2957	9414333	0	live	ackA	RCFBP_mp20426	acetate kinase				NC_014309.1	1234887	1236065	plus	0		
+365659	Streptococcus mitis B6	8797535	0	live	ackA	smi_0214	acetate kinase (acetokinase)				NC_013853.1	211034	212167	plus	0		
+362948	Lactobacillus salivarius UCC118	3977873	0	live	ackA	LSL_1114	acetate kinase				NC_007929.1	1142864	1144057	minus	0		
+362948	Lactobacillus salivarius UCC118	3977678	0	live	ackA	LSL_1323	acetate kinase				NC_007929.1	1371226	1372422	minus	0		
+243275	Treponema denticola ATCC 35405	2740966	0	live	ackA	TDE0933	acetate kinase				NC_002967.9	958203	959396	plus	0		
+194439	Chlorobium tepidum TLS	1006059	0	live	ackA	CT1525	acetate kinase				NC_002932.3	1426329	1427561	minus	0		
+333849	Enterococcus faecium DO	13001162	0	live	ackA	HMPREF0351_12451	acetate kinase				NC_017960.1	2397287	2398471	minus	0		
+871585	Acinetobacter pittii PHEA-2	11638064	0	live	ackA	BDGL_003395	acetate kinase				NC_016603.1	3646557	3647759	minus	0		
+243160	Burkholderia mallei ATCC 23344	3086944	0	live	ackA	BMAA0120	acetate kinase			2	NC_006349.2	115763	116941	minus	0		
+243231	Geobacter sulfurreducens PCA	2685340	0	live	ackA	GSU2707	acetate kinase A/propionate kinase 2				NC_002939.5	2985611	2986876	minus	0		
+198214	Shigella flexneri 2a str. 301	1027226	0	live	ackA	SF2372	acetate kinase A/propionate kinase 2				NC_004337.2	2421582	2422784	plus	0		
+281309	[Bacillus thuringiensis] serovar konkukian str. 97-27	2857518	0	live	ackA	BT9727_3907	butyrate kinase				NC_005957.1	3986726	3987829	minus	0		
+198094	Bacillus anthracis str. Ames	1086751	0	live	ackA	BA_4888, BA4888	acetate kinase				NC_003997.3	4440456	4441649	minus	0		
+568707	Bordetella bronchiseptica 253	13979133	0	live	ackA	BN112_2075, BB253_2075, ack	acetate kinase				NC_019382.1	2237720	2238910	plus	0		
+1208660	Bordetella parapertussis Bpp5	13891521	0	live	ackA	BN117_3484, BPP5_3484, ack	acetate kinase				NC_018828.1	3760362	3761552	plus	0		
+749927	Amycolatopsis mediterranei U32	9439647	0	live	ackA	AMED_5469	acetate kinase				NC_014318.1	6068580	6069665	minus	0		
+585056	Escherichia coli UMN026	7158901	0	live	ackA	ECUMN_2635	bifunctional acetate kinase/propionate kinase				NC_011751.1	2712812	2714014	plus	0		
+272631	Mycobacterium leprae TN	908779	0	live	ackA	ML0267	pseudo				NC_002677.1	350965	351892	minus	0		
+100226	Streptomyces coelicolor A3(2)	1100864	0	live	SCO5424	SCO5424, SC8F4.28c, ackA	acetate kinase				NC_003888.3	5894480	5895703	minus	0		
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4713007	0	live	ack	YE1334, ackA	acetate kinase				NC_008800.1	1485159	1486361	minus	0		
+220341	Salmonella enterica subsp. enterica serovar Typhi str. CT18	1248892	0	live	STY2567	STY2567, ackA	acetate kinase				NC_003198.1	2402961	2404163	plus	0		
+272947	Rickettsia prowazekii str. Madrid E	883724	0	live	RP110	RP110	acetate kinase (ackA)				NC_000963.1	132770	133927	plus	0		
+859656	Ralstonia solanacearum CFBP2957	9413340	0	live	RCFBP_mp20424	RCFBP_mp20424	conserved protein of unknown function in ackA 5'region				NC_014309.1	1231635	1233866	plus	0		
+36809	Mycobacterium abscessus	5966687	0	live	MAB_4225c	MAB_4225c	Acetate kinase (AckA)			Chromosome	NC_010397.1	4293336	4294454	minus	0		
+122586	Neisseria meningitidis MC58	903996	0	live	ackA-2	NMB1518	acetate kinase				NC_003112.2	1566274	1567470	plus	0		
+122586	Neisseria meningitidis MC58	902551	0	live	ackA-1	NMB0435	acetate kinase				NC_003112.2	448549	449748	plus	0		
+7955	Danio rerio	562887	0	live	tnk2a	si:dkey-150o13.3	tyrosine kinase, non-receptor, 2a	acka		24							
+1117943	Sinorhizobium fredii HH103	34337555	0	live	SFHH103_RS28110	SFHH103_RS28110, SFHH103_05681	ackA	ackA|acetate kinase			NC_016815.1	886762	887946	minus	0		
+380703	Aeromonas hydrophila subsp. hydrophila ATCC 7966	4490863	0	live	ackA-1	AHA_0891	acetate kinase				NC_008570.1	961816	963018	minus	0		
+380703	Aeromonas hydrophila subsp. hydrophila ATCC 7966	4489737	0	live	ackA-2	AHA_3586	acetate kinase				NC_008570.1	4027082	4028281	minus	0		
+1118153	Halomonas sp. GFAJ-1	32533235	0	live	MOY_RS00475	MOY_RS00475, MOY_00490	acetate kinase										
+634452	Acetobacter pasteurianus IFO 3283-01	8435509	0	live	APA01_RS07435	APA01_RS07435, APA01_14700	acetate kinase				NC_013209.1	1575933	1577135	minus	0		
+1082933	Mesorhizobium amorphae CCNWGS0123	32098001	0	live	A6B35_RS08330	A6B35_RS08330, A6B35_08300	acetate kinase										
+481146	Acetobacter pasteurianus subsp. ascendens	34212601	0	live	A4S02_RS05450	A4S02_RS05450, A4S02_05450	acetate/propionate family kinase										
+666685	Rhodanobacter denitrificans	31836609	0	live	R2APBS1_RS10490	R2APBS1_RS10490, R2APBS1_2146	acetate/propionate family kinase				NC_020541.1	2302122	2303315	plus	0		
+935546	Mesorhizobium loti NZP2037	31699010	0	live	A9174_RS15120	A9174_RS15120, A9174_15120	acetate kinase										
+505682	Ureaplasma parvum serovar 3 str. ATCC 27815	29672525	0	live	UPA3_RS02510	UPA3_RS02510, UPA3_0502	acetate kinase				NC_010503.1	576667	577830	plus	0		
+1072583	Halomonas boliviensis LC1	24264092	0	live	KUC_RS14840	KUC_RS14840, KUC_3100	acetate kinase										
+426355	Methylobacterium radiotolerans JCM 2831	6136264	0	live	MRAD2831_RS34095	MRAD2831_RS34095, Mrad2831_0422	acetate kinase				NC_010505.1	464872	465987	minus	0		
+1123366	Thalassospira xiamenensis M-5 = DSM 17429	31928548	0	live	TH3_RS14570	TH3_RS14570, TH3_14375	acetate kinase										
+251747	Chromobacterium subtsugae	31602007	0	live	AA094_RS06675	AA094_RS06675	acetate kinase										
+84753	Moesziomyces antarcticus	26304719	0	live	PAN0_009d3876	PAN0_009d3876	acetate kinase protein			Unknown							
+222929	Coccidioides posadasii C735 delta SOWgp	9694005	0	live	CPC735_005490	CPC735_005490	acetate kinase family protein	acetate kinase family protein		Unknown							
+246410	Coccidioides immitis RS	4563187	0	live	CIMG_03756	CIMG_03756	acetate kinase			Unknown							
+1736382	Methylobacterium sp. Leaf456	32610466	0	live	ASG52_RS12545	ASG52_RS12545, ASG52_24365	acetate kinase										
+741275	Punctularia strigosozonata HHB-11173 SS5	18878980	0	live	PUNSTDRAFT_133553	PUNSTDRAFT_133553	actin-like ATPase domain-containing protein			Unknown							
+1076596	Acetobacter persici	34327018	0	live	A0U91_RS00355	A0U91_RS00355, A0U91_00365	acetate/propionate family kinase										
+69974	Mesorhizobium plurifarium	31891598	0	live	MPLDJ20_RS21190	MPLDJ20_RS21190, MPLDJ20_250092	acetate kinase										
+178901	Acetobacter malorum	29557285	0	live	AD930_RS08300	AD930_RS08300, AD930_08330	acetate kinase										
+498257	Verticillium dahliae VdLs.17	20710293	0	live	VDAG_08830	VDAG_08830	acetate kinase			1							
+535722	Nannizzia gypsea CBS 118893	10032250	0	live	MGYG_01012	MGYG_01012	acetate kinase			Unknown							
+336963	Uncinocarpus reesii 1704	8443894	0	live	UREG_07524	UREG_07524	acetate kinase										
+237631	Ustilago maydis 521	23563872	0	live	UMAG_03413	UMAG_03413	hypothetical protein	hypothetical protein		9	NC_026486.1	58434	59900	minus	1		
+1263415	Endocarpon pusillum Z07020	19239392	0	live	EPUS_04437	EPUS_04437	hypothetical protein			Unknown							
+694068	Fomitiporia mediterranea MF3/22	18679698	0	live	FOMMEDRAFT_75634	FOMMEDRAFT_75634	hypothetical protein			Unknown							
+7224	Drosophila hydei	111596913	0	live	LOC111596913		acetate kinase-like	uncharacterized protein LOC111596913		Un							
+7282	Drosophila obscura	111082616	0	live	LOC111082616		acetate kinase-like	uncharacterized protein LOC111082616		Un							
+7282	Drosophila obscura	111078070	0	live	LOC111078070		acetate kinase-like	uncharacterized protein LOC111078070		Un							
+935546	Mesorhizobium loti NZP2037	31698967	0	live	A9174_RS14900	A9174_RS14900, A9174_14900	hypothetical protein										
+756982	Arthrobotrys oligospora ATCC 24927	22892186	0	live	AOL_s00076g410	AOL_s00076g410	hypothetical protein			Unknown							
+663202	Trichophyton verrucosum HKI 0517	9578548	0	live	TRV_04296	TRV_04296	hypothetical protein										
+511145	Escherichia coli str. K-12 substr. MG1655	946778	0	live	pta	b2297, ECK2291, JW2294	phosphate acetyltransferase				NC_000913.3	2414747	2416891	plus	0		
+210007	Streptococcus mutans UA159	1028825	0	live	ccpA	SMU_1591, SMU.1591	catabolite control protein CcpA				NC_004350.2	1522544	1523545	minus	0		
+210007	Streptococcus mutans UA159	1029034	0	live	SMU_1824c	SMU_1824c, SMU.1824c	transcriptional repressor CodY				NC_004350.2	1721898	1722683	minus	0		
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4714277	0	live	YE2634	YE2634	hypothetical protein				NC_008800.1	2850949	2852388	minus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	5618702	0	live	NEWENTRY		Record to support submission of GeneRIFs for a gene not in Gene (Bacillus typhimurium; Salmonella choleraesuis serotype typhimurium; Salmonella enterica 1,4,[5],12,:i:1,2; Salmonella enterica ser. typhimurium; Salmonella enterica serotype Typhimurium; Salmonella enterica serovar Typhimurium; Salmonella enterica subsp. enterica serovar 1,4,[5],12,:i:1,2; Salmonella typhi-murium; Salmonella typhimurium; Samonella typhimurium).										
+224308	Bacillus subtilis subsp. subtilis str. 168	936491	0	live	codY	BSU16170	GTP-sensing transcriptional pleiotropic repressor CodY				NC_000964.3	1690119	1690898	plus	0		
+224308	Bacillus subtilis subsp. subtilis str. 168	935942	0	live	ccpA	BSU29740	catabolite control protein A				NC_000964.3	3044165	3045169	minus	0		
+386585	Escherichia coli O157:H7 str. Sakai	916888	0	live	ECs3180	ECs3180	acetate kinase				NC_002695.1	3139641	3140843	plus	0		
+1316932	Mannheimia haemolytica M42548	15339782	0	live	MHH_RS23750	MHH_RS23750, MHH_c20500	acetate kinase				NC_021082.1	1935242	1936450	plus	0		
+529120	Alteromonas macleodii ATCC 27126	29677351	0	live	MASE_RS06695	MASE_RS06695, MASE_06725	acetate kinase				NC_018632.1	1568467	1569648	plus	0		
+29486	Yersinia ruckeri	29469097	0	live	UGYR_RS04845	UGYR_RS04845, UGYR_04845	acetate kinase										
+470	Acinetobacter baumannii	31350302	0	live	IX87_RS16690	IX87_RS16690, IX87_17015	acetate kinase										
+190893	Vibrio coralliilyticus	29560574	0	live	JV59_RS09840	JV59_RS09840, JV59_33960	acetate kinase			1							
+672	Vibrio vulnificus	33956997	0	live	VVCECT4999_RS19735	VVCECT4999_RS19735, VVCECT4999_18660	acetate kinase			II							
+28141	Cronobacter sakazakii	29458002	0	live	CSK29544_RS11060	CSK29544_RS11060, CSK29544_02231	acetate kinase										
+747	Pasteurella multocida	29389284	0	live	DR93_RS07530	DR93_RS07530, DR93_1534	acetate kinase										
+663	Vibrio alginolyticus	31648426	0	live	AL471_RS02210	AL471_RS02210, AL471_02215	acetate kinase										
+400946	Wohlfahrtiimonas chitiniclastica	34196595	0	live	BMY_RS02190	BMY_RS02190, BMY_0472	acetate kinase										
+714	Aggregatibacter actinomycetemcomitans	31673363	0	live	ACT75_RS01255	ACT75_RS01255, ACT75_01255	acetate kinase										
+1407647	Aggregatibacter actinomycetemcomitans NUM4039	29931449	0	live	AANUM_RS10010	AANUM_RS10010, AANUM_2028	acetate kinase			Unknown							
+654	Aeromonas veronii	28679287	0	live	AMS64_RS19580	AMS64_RS19580, AMS64_19570	acetate kinase										
+1236608	Moraxella catarrhalis BBH18	9136208	0	live	MCR_RS06710	MCR_RS06710, MCR_1481	acetate kinase				NC_014147.1	1480251	1481435	minus	0		
+416269	Actinobacillus pleuropneumoniae serovar 5b str. L20	4848842	0	live	APL_RS03375	APL_RS03375, APL_0645	acetate kinase				NC_009053.1	738008	739216	minus	0		
+743972	Actinobacillus suis ATCC 33415	34290388	0	live	ASU1_RS03610	ASU1_RS03610, ASU1_03555	acetate kinase										
+1118153	Halomonas sp. GFAJ-1	32533118	0	live	MOY_RS01765	MOY_RS01765, MOY_01774	acetate kinase										
+1051646	Vibrio tubiashii ATCC 19109	23445008	0	live	IX91_RS09575	IX91_RS09575, IX91_09775	acetate kinase			1							
+1005058	Gallibacterium anatis UMN179	10565740	0	live	UMN179_RS12365	UMN179_RS12365, UMN179_02476	acetate kinase				NC_015460.1	2643667	2644872	plus	0		
+634503	Edwardsiella ictaluri 93-146	7961720	0	live	NT01EI_RS11695	NT01EI_RS11695, NT01EI_2694	acetate kinase				NC_012779.2	2588551	2589750	plus	0		
+557723	Haemophilus parasuis SH0165	7276951	0	live	HAPS_RS01945	HAPS_RS01945, HAPS_0392	acetate kinase				NC_011852.1	434123	435322	plus	0		
+1151116	Rahnella aquatilis HX2	34349791	0	live	Q7S_RS06060	Q7S_RS06060, Q7S_06010	acetate kinase				NC_017047.1	1288824	1290026	minus	0		
+1141661	Providencia alcalifaciens Dmel2	34346186	0	live	OO9_RS02775	OO9_RS02775, OO9_02702	acetate kinase										
+225937	Marinobacter adhaerens HP15	34130162	0	live	HP15_RS07525	HP15_RS07525, HP15_1499	acetate kinase				NC_017506.1	1575635	1576831	minus	0		
+667120	Edwardsiella anguillarum ET080813	33938199	0	live	ETEE_RS01795	ETEE_RS01795, ETEE_0423	acetate kinase										
+61652	Serratia rubidaea	32373458	0	live	AXX16_RS09735	AXX16_RS09735, AXX16_1968	acetate kinase										
+1177117	Halomonas stevensii S18214	32183266	0	live	HSS18214_RS0107460	HSS18214_RS0107460	acetate kinase										
+1163748	Marinobacter hydrocarbonoclasticus ATCC 49840	31821553	0	live	MARHY_RS10195	MARHY_RS10195, MARHY2148	acetate kinase				NC_017067.1	2194855	2196060	plus	0		
+1157951	Providencia stuartii MRSN 2154	31515390	0	live	S70_RS02385	S70_RS02385, S70_02445	acetate kinase				NC_017731.1	492045	493247	plus	0		
+706191	Pantoea ananatis LMG 20103	31511581	0	live	PANA_RS13400	PANA_RS13400, PANA_2644	Acetate kinase	Acetate kinase|acetate kinase			NC_013956.2	2977824	2979026	plus	0		
+1219076	Vibrio alginolyticus NBRC 15630 = ATCC 17749	29869704	0	live	N646_RS22435	N646_RS22435, N646_4550	acetate kinase			2	NC_022359.1	1609661	1610854	minus	0		
+1219076	Vibrio alginolyticus NBRC 15630 = ATCC 17749	29866242	0	live	N646_RS05535	N646_RS05535, N646_1158	acetate kinase			1	NC_022349.1	1250230	1251426	plus	0		
+377629	Teredinibacter turnerae T7901	29651378	0	live	TERTU_RS12570	TERTU_RS12570, TERTU_2847	acetate kinase				NC_012997.1	3141910	3143115	minus	0		
+28173	Vibrio nigripulchritudo	29461396	0	live	VIBNI_RS11345	VIBNI_RS11345, VIBNI_A2401	acetate kinase			1	NC_022528.1	2554676	2555872	plus	0		
+243365	Chromobacterium violaceum ATCC 12472	24947919	0	live	CV_RS07460	CV_RS07460, CV1531, CV_1531	acetate kinase				NC_005085.1	1638380	1639573	minus	0		
+1235834	Kosakonia sacchari SP1	23843701	0	live	C813_RS30290	C813_RS30290, C813_23080	acetate kinase										
+1117320	Pseudoalteromonas undina DSM 6065	23233069	0	live	B8190_RS03745	B8190_RS03745, AL087_RS03710, PUND_03705, PUND_RS03710	acetate kinase										
+1124991	Morganella morganii subsp. morganii KT	14671776	0	live	MU9_RS13130	MU9_RS13130, MU9_2566	acetate kinase	acetate kinase			NC_020418.1	2815562	2816764	plus	0		
+693973	Shewanella baltica OS678	11772866	0	live	SBAL678_RS37320	SBAL678_RS37320, Sbal678_2777	acetate kinase				NC_016901.1	3251518	3252717	plus	0		
+882102	Vibrio anguillarum 775	10775059	0	live	VAA_RS06155	VAA_RS06155, VAA_03242	acetate kinase			I	NC_015633.1	1305749	1306945	minus	0		
+198628	Dickeya dadantii 3937	9734532	0	live	DDA3937_RS14380	DDA3937_RS14380, Dda3937_04019	acetate kinase				NC_014500.1	3296329	3297531	plus	0		
+665029	Erwinia amylovora CFBP1430	8911820	0	live	EAMY_RS28350	EAMY_RS28350, EAMY_2385	acetate kinase				NC_013961.1	2457358	2458560	plus	0		
+406818	Xenorhabdus bovienii SS-2004	8832545	0	live	XBJ1_RS12385	XBJ1_RS12385, XBJ1_2934	acetate kinase				NC_013892.1	2880940	2882142	plus	0		
+529507	Proteus mirabilis HI4320	6802912	0	live	PMI_RS08685	PMI_RS08685, PMI1771	acetate kinase				NC_010554.1	1897313	1898515	plus	0		
+338187	Vibrio campbellii ATCC BAA-1116	5555325	0	live	VIBHAR_RS13735	VIBHAR_RS13735, VIBHAR_02942	acetate kinase			I	NC_009783.1	2964320	2965516	plus	0		
+196600	Vibrio vulnificus YJ016	2624939	0	live	BJE04_RS10220	BJE04_RS10220, VV2133, VV_RS10230	acetate kinase			I	NC_005139.1	2143580	2144776	plus	0		
+196600	Vibrio vulnificus YJ016	2622622	0	live	BJE04_RS18885	BJE04_RS18885, VVA0658, VV_RS18905	acetate kinase			II	NC_005140.1	742869	744062	plus	0		
+675816	Vibrio orientalis CIP 102891 = ATCC 33934	25689119	0	live	VIA_RS17155	VIA_RS17155, VIA_003361	acetate kinase										
+675816	Vibrio orientalis CIP 102891 = ATCC 33934	25686817	0	live	VIA_RS05590	VIA_RS05590	acetate kinase										
+1051646	Vibrio tubiashii ATCC 19109	23447096	0	live	IX91_RS20015	IX91_RS20015, IX91_20460	acetate kinase			2							
+224308	Bacillus subtilis subsp. subtilis str. 168	936367	0	live	accA	BSU29200	acetyl-CoA carboxylase carboxyltransferase subunit alpha				NC_000964.3	2987731	2988708	minus	0		
+211586	Shewanella oneidensis MR-1	1170605	0	live	pta	SO_2916	phosphate acetyltransferase Pta				NC_004347.2	3047174	3049327	plus	0		
+1341679	Acinetobacter indicus CIP 110367	36062724	0	live	P253_RS10620	P253_RS10620, P253_02121	acetate kinase										
+1121869	Enterovibrio norvegicus DSM 15893	35871716	0	live	BM082_RS08525	BM082_RS08525, SAMN03084138_01705	acetate kinase										
+553239	Vibrio breoganii	35839573	0	live	A6E01_RS03775	A6E01_RS03775, A6E01_03775	acetate kinase			1							
+1219069	Vibrio mediterranei NBRC 15635	34764818	0	live	VME01S_RS06875	VME01S_RS06875	acetate kinase										
+1120929	Acinetobacter towneri DSM 14962 = CIP 107472	34762237	0	live	F947_RS09295	F947_RS09295, F947_01961	acetate kinase										
+1217715	Acinetobacter bohemicus ANC 3994	34391454	0	live	F994_RS07965	F994_RS07965, F994_03114	acetate kinase										
+299766	Enterobacter hormaechei subsp. steigerwaltii	34152857	0	live	BFV68_RS15395	BFV68_RS15395, BFV68_15395	acetate kinase										
+590409	Dickeya zeae Ech586	33925391	0	live	DD586_RS13600	DD586_RS13600, Dd586_2756	acetate kinase				NC_013592.1	3111076	3112278	plus	0		
+1120925	Acinetobacter bouvetii DSM 14964 = CIP 107468	33092256	0	live	F941_RS02425	F941_RS02425, F941_00478	acetate kinase										
+399742	Enterobacter sp. 638	32442526	0	live	ENT638_RS14635	ENT638_RS14635, Ent638_2840	acetate kinase				NC_009436.1	3079350	3080552	plus	0		
+667129	Serratia odorifera DSM 4582	31793162	0	live	HMPREF0758_RS13155	HMPREF0758_RS13155, HMPREF0758_2780	acetate kinase										
+487316	Acinetobacter soli	31756680	0	live	BEN76_RS15640	BEN76_RS15640, BEN76_15640	acetate kinase										
+40215	Acinetobacter junii	31747917	0	live	BVL33_RS03795	BVL33_RS03795, BVL33_03795	acetate kinase										
+553611	Photobacterium leiognathi	31590315	0	live	UB42_RS07270	UB42_RS07270, UB42_07270	acetate kinase										
+228400	Haemophilus somnus 2336	31487574	0	live	HSM_RS06580	HSM_RS06580, HSM_1272	acetate kinase				NC_010519.1	1450683	1451879	minus	0		
+1122936	Rodentibacter pneumotropicus DSM 21403	31211788	0	live	A3GE_RS0107795	A3GE_RS0107795	acetate kinase										
+1242245	Acinetobacter johnsonii XBB1	29884612	0	live	RZ95_RS14370	RZ95_RS14370, RZ95_14415	acetate kinase										
+1217648	Acinetobacter beijerinckii CIP 110307	29857529	0	live	F933_RS06450	F933_RS06450, F933_01303	acetate kinase										
+981336	Acinetobacter ursingii DSM 16037 = CIP 107286	29773545	0	live	F944_RS15590	F944_RS15590, F944_02853	acetate kinase										
+981333	Acinetobacter parvus DSM 16617 = CIP 108168	29768127	0	live	F988_RS11775	F988_RS11775, F988_02404	acetate kinase										
+561230	Pectobacterium carotovorum subsp. carotovorum PC1	29705618	0	live	PC1_RS13795	PC1_RS13795, PC1_2780	acetate kinase				NC_012917.1	3154053	3155255	plus	0		
+546274	Eikenella corrodens ATCC 23834	29690984	0	live	EIKCOROL_RS09140	EIKCOROL_RS09140, EIKCOROL_02328	acetate kinase										
+676	Vibrio fluvialis	29383436	0	live	AL536_RS28145	AL536_RS28145, AL536_05400	acetate/propionate family kinase			1							
+571	Klebsiella oxytoca	29380130	0	live	AB185_RS15710	AB185_RS15710, AB185_15680	acetate kinase										
+504	Kingella kingae	29367248	0	live	KKKWG1_RS09340	KKKWG1_RS09340, KKKWG1_1902	acetate kinase			I							
+1217988	Acinetobacter schindleri CIP 107287	25070787	0	live	F955_RS01030	F955_RS01030, F955_00377	acetate kinase										
+435832	Neisseria mucosa C102	25047504	0	live	HMPREF0604_RS01495	HMPREF0604_RS01495, HMPREF0604_00297	acetate kinase										
+435832	Neisseria mucosa C102	25047114	0	live	HMPREF0604_RS03080	HMPREF0604_RS03080, HMPREF0604_00604	acetate kinase										
+233412	Haemophilus ducreyi 35000HP	24943629	0	live	HD_RS05950	HD_RS05950, HD1456	acetate kinase				NC_002940.2	1191116	1192318	plus	0		
+1072583	Halomonas boliviensis LC1	24261892	0	live	KUC_RS01240	KUC_RS01240, KUC_0255	acetate kinase										
+1333848	Citrobacter freundii CFNIH1	23339172	0	live	CFNIH1_RS22665	CFNIH1_RS22665, CFNIH1_23030	acetate kinase										
+981327	Acinetobacter lwoffii NCTC 5866 = CIP 64.10 = NIPH 512	23283573	0	live	F925_RS05530	F925_RS05530, F925_01147	acetate kinase										
+981334	Acinetobacter radioresistens DSM 6976 = NBRC 102413 = CIP 103788	23269536	0	live	F939_RS02560	F939_RS02560, F939_00331	acetate kinase										
+1217658	Acinetobacter gyllenbergii NIPH 230	23000356	0	live	F987_RS03060	F987_RS03060, F987_03801	acetate kinase										
+575788	Vibrio tasmaniensis LGP32	7160590	0	live	VS_RS04635	VS_RS04635, VS_0998	acetate kinase			1	NC_011753.2	1033918	1035114	minus	0		
+575788	Vibrio tasmaniensis LGP32	7138420	0	live	VS_RS20135	VS_RS20135, VS_II1135	acetate kinase			2	NC_011744.2	1273484	1274677	minus	0		
+382245	Aeromonas salmonicida subsp. salmonicida A449	4998526	0	live	ASA_RS16905	ASA_RS16905, ASA_3401	acetate kinase				NC_009348.1	3680158	3681360	plus	0		
+382245	Aeromonas salmonicida subsp. salmonicida A449	4995369	0	live	ASA_RS17615	ASA_RS17615, ASA_3549	acetate kinase				NC_009348.1	3839069	3840268	minus	0		
+272634	Mycoplasma pneumoniae M129	877032	0	live	ldh	MPN674, K05_orf312	L-lactate dehydrogenase				NC_000912.1	797819	798757	plus	0		
+196627	Corynebacterium glutamicum ATCC 13032	1020697	0	live	NCgl2656	NCgl2656, Cgl2752	acetate kinase				NC_003450.3	2935313	2936506	minus	0		
+388919	Streptococcus sanguinis SK36	4807237	0	live	SSA_2118	SSA_2118	thiamine pyrophosphokinase				NC_009009.1	2119904	2120590	minus	0		
+243274	Thermotoga maritima MSB8	897189	0	live	TM0274	TM0274	acetate kinase				NC_000853.1	287486	288697	plus	0		
+224911	Bradyrhizobium diazoefficiens USDA 110	1050839	0	live	ackA2	blr3458	ackA2	ackA2|acetate kinase			NC_004463.1	3829203	3830417	plus	0		
+312309	Vibrio fischeri ES114	3280580	0	live	ackA2	VF_A0794, VFA0794	acetate kinase			II	NC_006841.2	889937	891133	minus	0		
+251221	Gloeobacter violaceus PCC 7421	2599118	0	live	glr1000	glr1000	acetate kinase				NC_005125.1	1071423	1072640	plus	0		
+223926	Vibrio parahaemolyticus RIMD 2210633	1191300	0	live	VPA0611	VPA0611	acetate kinase			2	NC_004605.1	614768	615961	plus	0		
+223926	Vibrio parahaemolyticus RIMD 2210633	1189593	0	live	VP2082	VP2082	acetate kinase			1	NC_004603.1	2188453	2189649	plus	0		
+672	Vibrio vulnificus	33955214	0	live	VVCECT4999_RS05790	VVCECT4999_RS05790, VVCECT4999_05720	acetate kinase			I							
+177416	Francisella tularensis subsp. tularensis SCHU S4	3190747	0	live	tdcD	FTT_1753	propionate kinase				NC_006570.2	1840480	1841634	plus	0		
+266834	Sinorhizobium meliloti 1021	1237181	0	live	ackA2	SM_b21184, SMb21184	acetate kinase				NC_003078.1	932547	933725	plus	0		
+1699621	Psychrobacter sp. P11F6	33134847	0	live	AK822_RS01385	AK822_RS01385, AK822_01385	acetate kinase										
+1354303	Psychrobacter aquaticus CMS 56	33118657	0	live	M917_RS13510	M917_RS13510, M917_2837	acetate kinase										
+202956	Acinetobacter towneri	31751240	0	live	BJN41_RS03240	BJN41_RS03240, BJN41_02035	acetate kinase										
+318456	Photobacterium kishitanii	31588214	0	live	UB40_RS18250	UB40_RS18250, UB40_18240	acetate kinase										
+272623	Lactococcus lactis subsp. lactis Il1403	1115688	0	live	ackA2	L0224	acetate kinase				NC_002662.1	2088579	2089766	minus	0		
+176280	Staphylococcus epidermidis ATCC 12228	1056464	0	live	SE1387	SE1387	acetate kinase				NC_004461.1	1423220	1424473	minus	0		
+197221	Thermosynechococcus elongatus BP-1	1012045	0	live	tlr2340	tlr2340	acetate kinase				NC_004113.1	2436807	2438054	plus	0		
+1194427	Vibrio toranzoniae	34372974	0	live	VTO7225_RS02280	VTO7225_RS02280, VTO7225_00457	acetate kinase										
+1194427	Vibrio toranzoniae	34369535	0	live	VTO7225_RS06795	VTO7225_RS06795, VTO7225_01374	acetate kinase										
+1082705	Lonsdalea quercina subsp. quercina	33077048	0	live	RZ35_RS12285	RZ35_RS12285, DF29_RS0112720	acetate kinase										
+1396858	Marinobacter sp. ES-1	32571524	0	live	Q668_RS08650	Q668_RS08650, Q666_10990	acetate kinase										
+1196094	Snodgrassella alvi wkB2	32537272	0	live	SALWKB2_RS06815	SALWKB2_RS06815, SALWKB2_1342	acetate kinase										
+472695	Pantoea septica	32456845	0	live	BN4413_RS11420	BN4413_RS11420, QU49_RS11105	acetate kinase										
+77608	Pseudoalteromonas distincta	32209304	0	live	QT16_RS18265	QT16_RS18265, QT16_18260	acetate kinase										
+1276888	Vibrio bivalvicida	32080637	0	live	APB76_RS18210	APB76_RS18210, APB76_18210	acetate kinase										
+1276888	Vibrio bivalvicida	32079254	0	live	APB76_RS11260	APB76_RS11260, APB76_11275	acetate kinase										
+43657	Pseudoalteromonas luteoviolacea	31725427	0	live	S4054249_RS12145	S4054249_RS12145, S4054249_12155	acetate kinase			1							
+251747	Chromobacterium subtsugae	31604227	0	live	AA094_RS18175	AA094_RS18175	acetate kinase										
+1346614	Serratia liquefaciens ATCC 27592	29902955	0	live	M495_RS16700	M495_RS16700, M495_17040	acetate kinase				NC_021741.1	3561096	3562298	plus	0		
+1196095	Gilliamella apicola	29850835	0	live	GAPWK_RS08090	GAPWK_RS08090, GAPWK_1615	acetate kinase										
+230089	Photorhabdus temperata subsp. thracensis	29597925	0	live	VY86_RS16180	VY86_RS16180, VY86_16180	acetate kinase										
+190893	Vibrio coralliilyticus	29563689	0	live	JV59_RS18475	JV59_RS18475, JV59_18195	acetate kinase			2							
+61647	Pluralibacter gergoviae	29486217	0	live	LG71_RS11600	LG71_RS11600, LG71_11825	acetate kinase										
+28173	Vibrio nigripulchritudo	29466149	0	live	VIBNI_RS24255	VIBNI_RS24255, VIBNI_B1211	acetate kinase			2	NC_022543.1	1241852	1243045	minus	0		
+273526	Serratia marcescens subsp. marcescens Db11	23389091	0	live	SMDB11_RS13380	SMDB11_RS13380, SMDB11_2708	acetate kinase			I							
+1225786	Dickeya solani IPO 2222	23247379	0	live	DSOIPO2222_RS13755	DSOIPO2222_RS13755	acetate kinase										
+882102	Vibrio anguillarum 775	10777421	0	live	VAA_RS17550	VAA_RS17550, VAA_03004	acetate kinase			II	NC_015637.1	821314	822507	plus	0		
+243277	Vibrio cholerae O1 biovar El Tor str. N16961	2614368	0	live	VC1098	VC1098	acetate kinase	acetate kinase		I	NC_002505.1	1167747	1168943	minus	0		
+243277	Vibrio cholerae O1 biovar El Tor str. N16961	2612786	0	live	VCA0235	VCA0235	acetate kinase	acetate kinase		II	NC_002506.1	256240	257433	plus	0		
+243230	Deinococcus radiodurans R1	1799521	0	live	DR_2602	DR_2602	acetate kinase			1	NC_001263.1	2609311	2610507	plus	0		
+226186	Bacteroides thetaiotaomicron VPI-5482	1076294	0	live	BT_3693	BT_3693	acetate kinase				NC_004663.1	4796407	4797606	plus	0		
+366394	Sinorhizobium medicae WSM419	5318132	0	live	Smed_4675	Smed_4675	acetate kinase				NC_009620.1	1188420	1189595	plus	0		
+226900	Bacillus cereus ATCC 14579	1206982	0	live	BC4637	BC4637	acetate kinase				NC_004722.1	4577722	4578915	minus	0		
+321967	Lactobacillus paracasei ATCC 334	4420719	0	live	LSEI_2172	LSEI_2172	acetate kinase				NC_008526.1	2162953	2164158	plus	0		
+321967	Lactobacillus paracasei ATCC 334	4419118	0	live	LSEI_0166	LSEI_0166	acetate kinase				NC_008526.1	164876	166066	plus	0		
+260799	Bacillus anthracis str. Sterne	2848252	0	live	BAS4535	BAS4535	acetate kinase				NC_005945.1	4441145	4442338	minus	0		
+1121869	Enterovibrio norvegicus DSM 15893	35873581	0	live	BM082_RS00395	BM082_RS00395, SAMN03084138_00077	acetate/propionate family kinase										
+591962	Aeromonas fluvialis	35846658	0	live	BN1125_RS08390	BN1125_RS08390	acetate kinase										
+591962	Aeromonas fluvialis	35845934	0	live	BN1125_RS02230	BN1125_RS02230	acetate kinase										
+553239	Vibrio breoganii	35843184	0	live	A6E01_RS15425	A6E01_RS15425, A6E01_15425	acetate/propionate family kinase			2							
+208223	Kosakonia cowanii	35810105	0	live	BWI95_RS21075	BWI95_RS21075, BWI95_21075	acetate kinase										
+112002	Psychrobacter pacificensis	35802231	0	live	BLR43_RS00300	BLR43_RS00300, SAMN05660405_00059	acetate kinase										
+34062	Moraxella osloensis	35778396	0	live	AXE82_RS03770	AXE82_RS03770, AXE82_03770	acetate kinase										
+351671	Xenorhabdus doucetiae	34868444	0	live	XDD1_RS12015	XDD1_RS12015, XDD1_2603	acetate kinase										
+1314869	Pseudoalteromonas espejiana DSM 9414	34812023	0	live	PESP_RS07375	PESP_RS07375, PESP_a1658	acetate kinase			I							
+1219069	Vibrio mediterranei NBRC 15635	34768502	0	live	VME01S_RS25380	VME01S_RS25380	acetate kinase										
+85581	Photobacterium damselae subsp. damselae	34512960	0	live	CAY62_RS18500	CAY62_RS18500, CAY62_18485	acetate kinase			II							
+85581	Photobacterium damselae subsp. damselae	34509376	0	live	CAY62_RS10260	CAY62_RS10260, CAY62_10250	acetate kinase			I							
+1305785	Kingella kingae Vir5453	34399433	0	live	QX78_RS09430	QX78_RS09430	acetate kinase										
+1217656	Acinetobacter guillouiae NIPH 991	34386170	0	live	F964_RS07365	F964_RS07365, F964_01496	acetate kinase										
+108981	Acinetobacter schindleri	34084568	0	live	AsACE_RS02240	AsACE_RS02240, AsACE_CH00444	acetate kinase										
+43662	Pseudoalteromonas piscicida	34017073	0	live	B1L02_RS06525	B1L02_RS06525, B1L02_06525	acetate kinase			1							
+38313	Shewanella algae	34009869	0	live	BN1227_RS09225	BN1227_RS09225	acetate kinase										
+490	Neisseria sicca	33951724	0	live	A6J88_RS21260	A6J88_RS21260, A6J88_07135	acetate kinase										
+490	Neisseria sicca	33951322	0	live	A6J88_RS19205	A6J88_RS19205, A6J88_05125	acetate kinase										
+261164	Psychrobacter alimentarius	33059331	0	live	A3K91_RS01260	A3K91_RS01260, A3K91_0252	acetate kinase										
+1441930	Chania multitudinisentens RB-25	32575651	0	live	Z042_RS12415	Z042_RS12415, Z042_03355	acetate kinase										
+213554	Halomonas campaniensis	32425580	0	live	FF32_RS10350	FF32_RS10350, FF32_10640	acetate kinase										
+182141	Pseudoalteromonas prydzensis	32416112	0	live	A7968_RS07885	A7968_RS07885	acetate kinase										
+61648	Kluyvera intermedia	32366302	0	live	AB182_RS06890	AB182_RS06890, AB182_06895	acetate kinase										
+47917	Serratia fonticola	32347060	0	live	AV650_RS21350	AV650_RS21350, AV650_21365	acetate kinase										
+29489	Aeromonas enteropelogenes	32327462	0	live	BN1138_RS04900	BN1138_RS04900	acetate kinase										
+29489	Aeromonas enteropelogenes	32326446	0	live	BN1138_RS10005	BN1138_RS10005	acetate kinase										
+80854	Moritella viscosa	31935102	0	live	MVIS_RS14960	MVIS_RS14960, MVIS_2922	acetate kinase			1							
+80854	Moritella viscosa	31933480	0	live	MVIS_RS06715	MVIS_RS06715, MVIS_1280	acetate kinase			1							
+29483	Yersinia aldovae	31913568	0	live	AE375_RS15400	AE375_RS15400, ERS137964_03163	acetate kinase										
+911008	Leclercia adecarboxylata ATCC 23216 = NBRC 102595	31871255	0	live	GLAD_RS17725	GLAD_RS17725, GLAD_01022	acetate kinase										
+1269942	Salinivibrio costicola subsp. costicola ATCC 33508 = LMG 11651	31850694	0	live	D481_RS0112140	D481_RS0112140	acetate kinase										
+1269942	Salinivibrio costicola subsp. costicola ATCC 33508 = LMG 11651	31850493	0	live	D481_RS0110430	D481_RS0110430	acetate kinase										
+546262	Neisseria cinerea ATCC 14685	31799211	0	live	NEICINOT_RS00785	NEICINOT_RS00785	acetate kinase										
+549	Pantoea agglomerans	31703658	0	live	BEE12_RS01140	BEE12_RS01140, BEE12_01140	acetate kinase										
+663	Vibrio alginolyticus	31651838	0	live	AL471_RS19350	AL471_RS19350, AL471_19350	acetate kinase										
+246167	Vibrio crassostreae	31641374	0	live	BN2639_RS12975	BN2639_RS12975	acetate kinase										
+246167	Vibrio crassostreae	31638822	0	live	BN2639_RS00180	BN2639_RS00180	acetate kinase										
+732	Aggregatibacter aphrophilus	31611814	0	live	ADJ80_RS08780	ADJ80_RS08780, ADJ80_08800	acetate kinase										
+553611	Photobacterium leiognathi	31592309	0	live	UB42_RS17325	UB42_RS17325, UB42_17325	acetate kinase										
+318456	Photobacterium kishitanii	31587153	0	live	UB40_RS12910	UB40_RS12910	pseudo										
+1480675	Halolamina sediminis	30421128	0	live	BOX17_RS12235	BOX17_RS12235, BOX17_12110	acetate kinase										
+1358411	Pantoea dispersa EGD-AAK13	29924340	0	live	N172_RS17150	N172_RS17150, N172_09730	acetate kinase										
+1190813	Pseudoalteromonas shioyasakiensis	29847469	0	live	PASHI_RS07670	PASHI_RS07670	acetate kinase										
+1076550	Pantoea rwandensis	29805825	0	live	LH22_RS08695	LH22_RS08695, LH22_08895	acetate kinase										
+162160	Pseudoalteromonas telluritireducens	29553081	0	live	A2I98_RS05580	A2I98_RS05580, A2I98_11960	acetate kinase										
+676	Vibrio fluvialis	29385383	0	live	AL536_RS34585	AL536_RS34585, AL536_11775	acetate kinase			2							
+654	Aeromonas veronii	28676401	0	live	AMS64_RS05105	AMS64_RS05105, AMS64_05080	acetate kinase										
+80852	Aliivibrio wodanis	28543149	0	live	AWOD_RS18245	AWOD_RS18245, AWOD_II_0894	acetate kinase			2							
+80852	Aliivibrio wodanis	28540372	0	live	AWOD_RS04225	AWOD_RS04225, AWOD_I_0803	acetate kinase			1							
+93061	Staphylococcus aureus subsp. aureus NCTC 8325	3919290	0	live	SAOUHSC_01820	SAOUHSC_01820	acetate kinase				NC_007795.1	1725538	1726740	minus	0		
+242231	Neisseria gonorrhoeae FA 1090	3282870	0	live	NGO0977	NGO0977	acetate kinase				NC_002946.2	946790	948016	plus	0		
+242231	Neisseria gonorrhoeae FA 1090	3281543	0	live	NGO1521	NGO1521	acetate kinase				NC_002946.2	1487852	1489051	minus	0		
+265311	Mesoplasma florum L1	2898256	0	live	Mfl044	Mfl044	acetate kinase				NC_006055.1	59862	61052	plus	0		
+160490	Streptococcus pyogenes M1 GAS	900448	0	live	SPy_0108	SPy_0108, SPy0108	hypothetical protein				NC_002737.2	105208	106161	plus	0		
+210007	Streptococcus mutans UA159	1029171	0	live	SMU_1979c	SMU_1979c, SMU.1979c	hypothetical protein				NC_004350.2	1851492	1852445	minus	0		
+28588	Zeugodacus cucurbitae	105208356	0	live	LOC105208356	ackA_1	uncharacterized LOC105208356	uncharacterized protein LOC105208356|Acetate kinase		Un							
