@@ -1,0 +1,6 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+272634	Mycoplasma pneumoniae M129	877249	0	live	ackA	MPN533, G12_orf390	acetate kinase				NC_000912.1	654981	656153	minus	0		
+233413	Mycobacterium bovis AF2122/97	1091412	0	live	ackA	BQ2027_MB0417	PROBABLE ACETATE KINASE ACKA (ACETOKINASE)			Mycobacterium_bovis_AF2122/97	NC_002945.4	494870	496027	plus	0		
+749927	Amycolatopsis mediterranei U32	9440726	0	live	ackA	AMED_6574	acetate kinase				NC_014318.1	7258816	7259901	minus	0		
+211586	Shewanella oneidensis MR-1	1170604	0	live	ackA	SO_2915	acetate kinase AckA				NC_004347.2	3045853	3047052	plus	0		
+1236608	Moraxella catarrhalis BBH18	9136208	0	live	MCR_RS06710	MCR_RS06710, MCR_1481	acetate kinase				NC_014147.1	1480251	1481435	minus	0		
